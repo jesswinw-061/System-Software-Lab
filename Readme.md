@@ -64,3 +64,9 @@
     Write a program to simulate the working of the dining philosopher’s problem.
 
 -   Dining-Philosopher : [dining-phil.c](/Lab-08/dining-phil.c)
+
+## 👉🏻[Lab 09](/Lab-09/)
+
+    Implement the symbol table functions: create, insert, modify, search, and display.
+
+-   Symbol Table : [symbol-table.c](/Lab-09/symbol-table.c)
