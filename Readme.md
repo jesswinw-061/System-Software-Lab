@@ -1,6 +1,6 @@
 # System Software Lab
 
-## 👉🏻[Lab 01]('/Lab01/')
+## 👉🏻[Lab 01](/Lab-01/)
 
 -   First Come First Served : [fcfs.c]('/Lab01/fcfs.c')
 -   Shortest Job First : [sjf.c]('/Lab01/sjf.c')
