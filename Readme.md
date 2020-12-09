@@ -37,3 +37,9 @@
 -   Single Level Directory : [sld.c](/Lab-04/sld.c)
 -   Two level Directory : [tld.c](/Lab-04/tld.c)
 -   Hierarchical : [hierarchical.c](/Lab-04/hierarchical.c)
+
+## 👉🏻[Lab 05](/Lab-05/)
+
+     Implement the banker’s algorithm for deadlock avoidance
+
+-   Bankers : [Bankers.c](/Lab-05/bankers.c)
