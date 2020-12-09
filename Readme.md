@@ -58,3 +58,9 @@
     Implement the producer-consumer problem using semaphores.
 
 -   Producer-Consumer : [producer-consumer.c](/Lab-07/producer-consumer.c)
+
+## 👉🏻[Lab 08](/Lab-08/)
+
+    Write a program to simulate the working of the dining philosopher’s problem.
+
+-   Dining-Philosopher : [dining-phil.c](/Lab-08/dining-phil.c)
