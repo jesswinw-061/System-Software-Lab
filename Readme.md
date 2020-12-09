@@ -43,3 +43,12 @@
      Implement the banker’s algorithm for deadlock avoidance
 
 -   Bankers : [Bankers.c](/Lab-05/bankers.c)
+
+## 👉🏻[Lab 06](/Lab-06/)
+
+    Simulate the following disk scheduling algorithms.
+    a) FCFS b)SCAN c) C-SCAN
+
+-   FCFS : [fcfs.c](/Lab-06/fcfs.c)
+-   SCAN : [scan.c](/Lab-06/scan.c)
+-   C-SCAN : [c-scan.c](/Lab-06/c-scan.c)
