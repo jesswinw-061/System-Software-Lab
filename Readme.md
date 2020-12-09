@@ -52,3 +52,9 @@
 -   FCFS : [fcfs.c](/Lab-06/fcfs.c)
 -   SCAN : [scan.c](/Lab-06/scan.c)
 -   C-SCAN : [c-scan.c](/Lab-06/c-scan.c)
+
+## 👉🏻[Lab 07](/Lab-07/)
+
+    Implement the producer-consumer problem using semaphores.
+
+-   Producer-Consumer : [producer-consumer.c](/Lab-07/producer-consumer.c)
