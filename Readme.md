@@ -28,3 +28,12 @@
 -   Sequential : [sequential.c](/Lab-03/sequential.c)
 -   Indexed : [Indexed.c](/Lab-03/indexed.c)
 -   Linked : [Linked.c](/Lab-03/linked.c)
+
+## 👉🏻[Lab 04](/Lab-04/)
+
+    Simulate the following file organization techniques
+    a) Single level directory b) Two level directory c) Hierarchical
+
+-   Single Level Directory : [sld.c](/Lab-04/sld.c)
+-   Two level Directory : [tld.c](/Lab-04/tld.c)
+-   Hierarchical : [hierarchical.c](/Lab-04/hierarchical.c)
