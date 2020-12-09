@@ -8,4 +8,4 @@
 ## 👉🏻[Lab 02](/Lab-02/)
 
 -   Round Robin : [RoundRobin.c](/Lab-02/RoundRobin.c)
--   Priority : [Priority.c](/Lab-02/priority.c)
+-   Priority : [Priority.c](/Lab-02/Priority.c)
