@@ -70,3 +70,9 @@
     Implement the symbol table functions: create, insert, modify, search, and display.
 
 -   Symbol Table : [symbol-table.c](/Lab-09/symbol-table.c)
+
+## 👉🏻[Lab 10](/Lab-10/)
+
+     Implement a single pass assembler.
+
+-   Single Pass Assembler : [spa.c](/Lab-10/spa.c)
